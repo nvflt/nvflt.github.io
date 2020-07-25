@@ -1,0 +1,5 @@
+baseURL = "https://nvflt.github.io"
+languageCode = "en-us"
+title = "Winter is coming"
+theme = "ananke"
+publishDir = "docs"
